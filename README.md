@@ -1,3 +1,6 @@
+Practice getting lat and long using method. Used component files, ternary operators. Used logic in function and executed function in render method versus having logic in render method. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
